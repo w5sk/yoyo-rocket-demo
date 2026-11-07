@@ -10,4 +10,5 @@ Charcoal surfaces, rectangular blue controls and a blue jetpack pilot. All / My 
 Auto cash-out targets from 1.00 to 999.99 fit without horizontal input scrolling. The 21 browser scenarios include six complete Android/iPhone profiles checked in Russian and English using Chromium/WebKit and touch input. The first screen, normal page scrolling to the bet list, desktop chat replacement and independent cash-outs are covered. These are emulated profiles, not physical-device certification.
 
 Virtual demo coins only. No payments or real money. The pilot sprite is a 58 KB WebP; previous asset URLs remain available for cached clients.
-Source revision: 4d27e9a8ee3f051973c81bc31ece9fa3e93ec651.
+Source revision: b8266a217b544b81790ef64e7b98a83dcd81cf15.
+The speaker control is visible beside round history on phones and in the header on desktop. Tap it once to enable sound; the choice is remembered. Effects are louder, touch activation and audio interruption recovery are handled. Audio samples and recovery were verified in desktop/Android Chromium profiles. Windows WebKit lacks Web Audio, so iPhone profiles verify the control and unavailable-audio fallback only; physical iPhone audio remains unverified.
