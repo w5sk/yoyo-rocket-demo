@@ -1,0 +1,6 @@
+{
+  "generator": "Built-in image_gen",
+  "prompt": "Use case: stylized-concept. Production game sprite, one premium realistic civilian aerobatic monoplane, glossy vivid scarlet red fuselage, white crisp wing stripes, silver engine nose, dark glass canopy, detailed clean aerodynamic proportions. Side view with slight elevated three-quarter angle showing wings, tail on LEFT nose and propeller on RIGHT, nose pointing 10 degrees upward. Entire airplane visible centered, spans 85% image width, landscape composition. Strong neutral studio key lighting and pale rim highlights for readability on almost black UI. Sharp premium 3D product rendering, realistic materials, not cartoon, no character, no lettering, no logos, no scenery, no ground shadow, no smoke or trail. Isolated on genuinely transparent background, clean alpha edges. The plane itself must be high contrast bright red with silver-white details.",
+  "output": "public/plane-flight.webp",
+  "optimization": "sharp-cli resize 640; transparent alpha preserved"
+}
